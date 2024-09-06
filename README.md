@@ -68,7 +68,9 @@ Welcome to the **Command-Line Calculator**! This script is designed to provide a
 
  ## Clone the repository
    ```bash
- cd https://github.com/GeekAnsh001/operatorcalculator/edit/main/
+ cd https://github.com/GeekAnsh001/operatorcalculator
+ git init
+
     
    ```
 
